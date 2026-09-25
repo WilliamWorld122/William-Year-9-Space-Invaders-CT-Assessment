@@ -3,7 +3,7 @@
 **This is only for Windows**
 
 ## Description:
-In Space Invaders, you control a spaceship and your goal is to attack the aliens.
+In Space Invaders, you control a spaceship and your goal is to attack the aliens. There is only one level in this game and four obstacles are there to block both the enemy attacks and spaceship attacks. It progressively breaks down every time either bullet hits it. The enemy also moves closer to make the game more fast paced and there is a high score system which in turn saves the highest score you earn.
 ## How to install
 
 1. Go to the Releases on this GitHub Repository
