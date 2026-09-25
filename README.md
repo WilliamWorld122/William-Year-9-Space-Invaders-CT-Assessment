@@ -15,8 +15,8 @@ In Space Invaders, you control a spaceship and your goal is to attack the aliens
 7. Enjoy!
 
 ## Controls
-A: Move Left
-D: Move Right
-SPACE: Shoot
+A: Move Left  
+D: Move Right  
+SPACE: Shoot  
 
 
